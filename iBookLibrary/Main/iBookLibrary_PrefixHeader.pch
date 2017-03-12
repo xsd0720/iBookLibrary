@@ -1,0 +1,19 @@
+//
+//  iBookLibrary_PrefixHeader.pch
+//  iBookLibrary
+//
+//  Created by FaiWong on 2017/3/12.
+//  Copyright © 2017年 FaiWong. All rights reserved.
+//
+
+#ifndef iBookLibrary_PrefixHeader_pch
+#define iBookLibrary_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "IBLPublicDefine.h"
+#import "IBLPublicHeader.h"
+#import "IBLPublicNetwork.h"
+
+#endif /* iBookLibrary_PrefixHeader_pch */
